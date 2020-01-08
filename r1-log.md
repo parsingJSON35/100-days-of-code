@@ -9,3 +9,6 @@ Started learning Data Visualization with D3 on FreeCodeCamp. Completion at 69%. 
 
 ### R1D2
 100% Completed Data Visualization with D3. https://www.freecodecamp.org/parsingjson
+
+### R1D3
+100% Completed JSON APIs and Ajax. https://www.freecodecamp.org/parsingjson
