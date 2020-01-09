@@ -12,3 +12,6 @@ Started learning Data Visualization with D3 on FreeCodeCamp. Completion at 69%. 
 
 ### R1D3
 100% Completed JSON APIs and Ajax. https://www.freecodecamp.org/parsingjson
+
+### R1D4
+Started on the D3 Bar Chart Project. Got the basic layout and title added. https://codepen.io/jsntime/full/oNgqWWB
