@@ -17,4 +17,4 @@ Started learning Data Visualization with D3 on FreeCodeCamp. Completion at 69%. 
 Started on the D3 Bar Chart Project. Got the basic layout and title added. https://codepen.io/jsntime/full/oNgqWWB
 
 ### R1D5
-Continued working on the D3 Bar Chart. Fetched the dataset, added the axes with scale, and started code for adding bars https://codepen.io/jsntime/full/oNgqWWB
+Continued working on the D3 Bar Chart. Fetched the data, added the axes with scale, and started code for adding bars https://codepen.io/jsntime/full/oNgqWWB
