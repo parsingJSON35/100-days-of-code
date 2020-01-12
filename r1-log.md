@@ -21,3 +21,6 @@ Continued working on the D3 Bar Chart. Fetched the data, added the axes with sca
 
 ### R1D6
 Continued working on the D3 Bar Chart. Ran into bugs today and the chart completely disappeared. Started over to debug, and determined the issue is something to do with the yScale on the left axis. https://codepen.io/jsntime/pen/YzPLJOZ
+
+### R1D7
+Continued working on the D3 Bar Chart. Found the issue with the chart disappearing - nothing programmatically wrong, simply an extra '.' lingering in the code. Chart now displays both axes and all bars without proper alignment. https://codepen.io/jsntime/pen/YzPLJOZ
