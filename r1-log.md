@@ -18,3 +18,6 @@ Started on the D3 Bar Chart Project. Got the basic layout and title added. https
 
 ### R1D5
 Continued working on the D3 Bar Chart. Fetched the data, added the axes with scale, and started code for adding bars https://codepen.io/jsntime/full/oNgqWWB
+
+### R1D6
+Continued working on the D3 Bar Chart. Ran into bugs today and the chart completely disappeared. Started over to debug, and determined the issue is something to do with the yScale on the left axis. https://codepen.io/jsntime/pen/YzPLJOZ
