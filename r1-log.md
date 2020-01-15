@@ -39,3 +39,7 @@ https://codepen.io/jsntime/pen/YzPLJOZ
 Continued working on the D3 Bar Chart. Didn't make much progress. Got stuck
 trying to  get the bars in the rights spots and at the right heights.
 https://codepen.io/jsntime/pen/YzPLJOZ
+
+### R1D9
+Continued working on the D3 Bar Chart. Properly aligned the bars with the axes.
+https://codepen.io/jsntime/pen/YzPLJOZ
