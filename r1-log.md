@@ -43,3 +43,6 @@ https://codepen.io/jsntime/pen/YzPLJOZ
 ### R1D9
 Continued working on the D3 Bar Chart. Properly aligned the bars with the axes.
 https://codepen.io/jsntime/pen/YzPLJOZ
+
+### R1D10
+Completed D3 Bar Chart. Tooltip appears on mouseover but won't position correctly.
