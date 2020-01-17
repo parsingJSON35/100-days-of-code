@@ -46,3 +46,6 @@ https://codepen.io/jsntime/pen/YzPLJOZ
 
 ### R1D10
 Completed D3 Bar Chart. Tooltip appears on mouseover but won't position correctly.
+
+### R1D11
+Started D3 Scatter Plot. Added the title, fetched the data and the SVG for the graph. The axes are both showing, but currently, only the x-axis is displaying the correct range and tick marks for the years.
