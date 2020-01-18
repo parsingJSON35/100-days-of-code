@@ -45,7 +45,16 @@ Continued working on the D3 Bar Chart. Properly aligned the bars with the axes.
 https://codepen.io/jsntime/pen/YzPLJOZ
 
 ### R1D10
-Completed D3 Bar Chart. Tooltip appears on mouseover but won't position correctly.
+Completed D3 Bar Chart. Tooltip appears on mouseover but won't position
+correctly. Something to take a look at for the future.
+https://codepen.io/jsntime/pen/YzPLJOZ
 
 ### R1D11
-Started D3 Scatter Plot. Added the title, fetched the data and the SVG for the graph. The axes are both showing, but currently, only the x-axis is displaying the correct range and tick marks for the years.
+Started D3 Scatter Plot. Added the title, fetched the data and the SVG for the
+graph. The axes are both showing, but currently, only the x-axis is displaying
+the correct range and tick marks for the years.
+https://codepen.io/jsntime/full/xxbaLGg
+
+### R1D12
+Continued D3 Scatter Plot. Attempted to format the y-axis for time durations.
+https://codepen.io/jsntime/full/xxbaLGg
