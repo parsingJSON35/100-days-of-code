@@ -58,3 +58,9 @@ https://codepen.io/jsntime/full/xxbaLGg
 ### R1D12
 Continued D3 Scatter Plot. Attempted to format the y-axis for time durations.
 https://codepen.io/jsntime/full/xxbaLGg
+
+### R1D13
+Continued D3 Scatter Plot. Formatted the y-axis for time durations. Added the
+circles for the dataset, however they are not visible yet due to issues with
+plotting the 'cy'.
+https://codepen.io/jsntime/full/xxbaLGg
