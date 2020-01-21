@@ -64,3 +64,12 @@ Continued D3 Scatter Plot. Formatted the y-axis for time durations. Added the
 circles for the dataset, however they are not visible yet due to issues with
 plotting the 'cy'.
 https://codepen.io/jsntime/full/xxbaLGg
+
+### R1D14
+Completed D3 Scatter Plot.
+https://codepen.io/jsntime/full/xxbaLGg
+
+### R1D15
+Started on D3 Heat Map. Finished a good portion. Still working to properly align
+ the rects on the y-axis. Will then move on to coloring, legend, and tooltip.
+https://codepen.io/jsntime/full/mdyQxWe
