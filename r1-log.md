@@ -71,5 +71,11 @@ https://codepen.io/jsntime/full/xxbaLGg
 
 ### R1D15
 Started on D3 Heat Map. Finished a good portion. Still working to properly align
- the rects on the y-axis. Will then move on to coloring, legend, and tooltip.
+the rects on the y-axis. Will then move on to coloring, legend, and tooltip.
+https://codepen.io/jsntime/full/mdyQxWe
+
+
+### R1D16
+Continued D3 Heat Map. Properly aligned data and added coloring based on
+temperature ranges. Also added the tooltip. Only missing the legend.
 https://codepen.io/jsntime/full/mdyQxWe
