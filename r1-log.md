@@ -79,3 +79,9 @@ https://codepen.io/jsntime/full/mdyQxWe
 Continued D3 Heat Map. Properly aligned data and added coloring based on
 temperature ranges. Also added the tooltip. Only missing the legend.
 https://codepen.io/jsntime/full/mdyQxWe
+
+### R1D17
+Continued D3 Heat Map. Started over because I believe I found a better
+way to create the chart that will allow me to create the legend with more ease.
+The legend is still the last piece that needs to be added.
+https://codepen.io/jsntime/full/mdyQxWe
