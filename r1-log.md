@@ -85,3 +85,8 @@ Continued D3 Heat Map. Started over because I believe I found a better
 way to create the chart that will allow me to create the legend with more ease.
 The legend is still the last piece that needs to be added.
 https://codepen.io/jsntime/full/mdyQxWe
+
+### R1D18
+Completed D3 Heat Map. Added the legend with an linear axis and rects. Switched
+rect fills throughout the heat map and legend to use threshold scale.
+https://codepen.io/jsntime/full/mdyQxWe
