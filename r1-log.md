@@ -90,3 +90,9 @@ https://codepen.io/jsntime/full/mdyQxWe
 Completed D3 Heat Map. Added the legend with an linear axis and rects. Switched
 rect fills throughout the heat map and legend to use threshold scale.
 https://codepen.io/jsntime/full/mdyQxWe
+
+### R1D19
+Completed D3 Choropleth Map. Switched it up with no HTML & only CSS to center
+everything and style my tooltip. Used promises with d3 methods to get the data
+instead of fetches.
+https://codepen.io/jsntime/full/xxGKeKw
