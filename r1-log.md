@@ -96,3 +96,8 @@ Completed D3 Choropleth Map. Switched it up with no HTML & only CSS to center
 everything and style my tooltip. Used promises with d3 methods to get the data
 instead of fetches.
 https://codepen.io/jsntime/full/xxGKeKw
+
+### R1D20
+Completed D3 Tree Map. Built completely in JavaScript. Switched to SASS
+instead of CSS. Have now finished the FCC Data Visualization Certification.
+https://codepen.io/jsntime/full/wvaaOZz
