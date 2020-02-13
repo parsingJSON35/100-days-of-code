@@ -6,14 +6,14 @@ The log of my #100DaysOfCode challenge. Started on January 6, 2020.
 
 ### R1D1
 Started learning Data Visualization with D3 on FreeCodeCamp. Completion at 69%.
-https://www.freecodecamp.org/parsingjson
+https://www.freecodecamp.org/jsnlmr
 
 ### R1D2
 100% Completed Data Visualization with D3.
-https://www.freecodecamp.org/parsingjson
+https://www.freecodecamp.org/jsnlmr
 
 ### R1D3
-100% Completed JSON APIs and Ajax. https://www.freecodecamp.org/parsingjson
+100% Completed JSON APIs and Ajax. https://www.freecodecamp.org/jsnlmr
 
 ### R1D4
 Started on the D3 Bar Chart Project. Got the basic layout and title added.
@@ -101,3 +101,9 @@ https://codepen.io/jsntime/full/xxGKeKw
 Completed D3 Tree Map. Built completely in JavaScript. Switched to SASS
 instead of CSS. Have now finished the FCC Data Visualization Certification.
 https://codepen.io/jsntime/full/wvaaOZz
+
+### R1D21
+Started on the Information Security and Quality Assurance Certification on
+FreeCodeCamp. Completed the first track focused on Information Security with
+HelmetJS.
+https://www.freecodecamp.org/jsnlmr
