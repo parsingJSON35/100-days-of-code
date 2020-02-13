@@ -107,3 +107,9 @@ Started on the Information Security and Quality Assurance Certification on
 FreeCodeCamp. Completed the first track focused on Information Security with
 HelmetJS.
 https://www.freecodecamp.org/jsnlmr
+
+### R1D22
+Continued working through the lessons for the Information Security and Quality
+Assurance Certification. Completed the vast majority of Quality Assurance and
+Testing with Chai, up to the point of functional testing with headless browsers.
+https://www.freecodecamp.org/jsnlmr
